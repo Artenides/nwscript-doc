@@ -33,8 +33,8 @@ public class Main {
             }
 
             if(!stop){
-                documentCreator.create("e:\\Arelith-Development\\are-resources\\scripts\\");
-                documentCreator.createTsv("e:\\Arelith\\docs\\");
+                documentCreator.create(nssDir);
+                documentCreator.createTsv(outputDir);
                 System.out.println("done");
             }
         }
