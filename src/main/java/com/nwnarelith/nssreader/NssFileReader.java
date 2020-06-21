@@ -1,4 +1,4 @@
-package com.nwnarelith;
+package com.nwnarelith.nssreader;
 
 public class NssFileReader {
 

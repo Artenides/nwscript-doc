@@ -1,4 +1,4 @@
-package com.nwnarelith;
+package com.nwnarelith.documentcreator;
 
 import com.nwnarelith.datamodel.NssFile;
 import com.nwnarelith.datamodel.NssFunction;

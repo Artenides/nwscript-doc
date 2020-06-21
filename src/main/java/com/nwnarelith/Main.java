@@ -1,5 +1,7 @@
 package com.nwnarelith;
 
+import com.nwnarelith.documentcreator.NssDocumentCreator;
+
 public class Main {
 
     public static void main(String[] args){
