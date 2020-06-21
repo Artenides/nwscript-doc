@@ -1,6 +1,6 @@
 # nwscript-doc
 
-A library to create documentation for NWScript related projects.
+A library that can create documentation for nss functions defined in NWScript files.  NWScript is a C like scripting language used by the Neverwinter Nights engine.
 
 
 Console command:
