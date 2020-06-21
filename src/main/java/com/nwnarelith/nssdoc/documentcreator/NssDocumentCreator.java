@@ -1,7 +1,7 @@
-package com.nwnarelith.documentcreator;
+package com.nwnarelith.nssdoc.documentcreator;
 
-import com.nwnarelith.datamodel.NssFile;
-import com.nwnarelith.datamodel.NssFunction;
+import com.nwnarelith.nssdoc.datamodel.NssFile;
+import com.nwnarelith.nssdoc.datamodel.NssFunction;
 
 import java.io.BufferedReader;
 import java.io.File;

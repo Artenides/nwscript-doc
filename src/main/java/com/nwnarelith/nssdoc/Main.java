@@ -1,6 +1,6 @@
-package com.nwnarelith;
+package com.nwnarelith.nssdoc;
 
-import com.nwnarelith.documentcreator.NssDocumentCreator;
+import com.nwnarelith.nssdoc.documentcreator.NssDocumentCreator;
 
 public class Main {
 

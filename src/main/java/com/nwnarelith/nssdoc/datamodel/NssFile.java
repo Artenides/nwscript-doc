@@ -1,4 +1,4 @@
-package com.nwnarelith.datamodel;
+package com.nwnarelith.nssdoc.datamodel;
 
 import java.util.ArrayList;
 import java.util.List;
